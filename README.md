@@ -1,10 +1,10 @@
-# Uniswap v4 Hooks Guide 🦄
+# Uniswap v4 Hooks Reference Guide 🦄
 
-## Introduction to Uniswap v4 Hooks
+## What are hooks Uniswap v4?
 Uniswap v4 hooks are customizable smart contracts that can be plugged into the Uniswap Protocol. They allow developers to modify or extend the behavior of liquidity pools, swaps, fees, and LP positions. Hooks provide a powerful way to innovate on top of the Uniswap Protocol’s liquidity and security, enabling unique trading strategies, optimized yields, and enhanced compliance controls. 
 - [Uniswap v4 Whitepaper(Draft)](https://github.com/Uniswap/v4-core/blob/main/whitepaper-v4-draft.pdf)
 - [v4 announcement](https://blog.uniswap.org/uniswap-v4)
-- [Hayden Adams discussing v4 on Bankless](https://www.youtube.com/watch?v=ZmhdNiGOMRU)    
+- [Hayden Adams discussing v4 on Bankless](https://www.youtube.com/watch?v=ZmhdNiGOMRU)
 
 ## My V4 Hook Ideas
 Feel free to steal these ideas for yourself!
@@ -32,4 +32,6 @@ Uniswap v4 hooks provide an exciting avenue for both seasoned developers and abs
 - [Study the Uniswap V4 Periphary & Core Contracts](https://github.com/Uniswap/v4-core)
 - [Tutorial / How to ​integrate Uniswap v4 and create custom hooks](https://soliditydeveloper.com/uniswap4)
 - [Template to start building your own v4 hooks](https://github.com/saucepoint/v4-template)
+
+#### Last but not least, join the discussion with the rest of the dev community @ [https://hooks.uniswapfoundation.org/](https://hooks.uniswapfoundation.org/)
 
