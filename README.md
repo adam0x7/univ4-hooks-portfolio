@@ -7,7 +7,7 @@ Uniswap v4 hooks are customizable smart contracts that can be plugged into the U
 - [Hayden Adams discussing v4 on Bankless](https://www.youtube.com/watch?v=ZmhdNiGOMRU)
 
 ## My V4 Hook Ideas
-Feel free to steal these ideas for yourself!
+Feel free to implement these ideas for yourself!
 
 | Name                                         | Description                                                                                                  | Link to Github Repo | Category           |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
