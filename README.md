@@ -15,7 +15,7 @@ Feel free to implement these ideas for yourself!
 | Impermanent Loss Mitigation Hook             | A hook to mitigate impermanent loss by using a rebalancing strategy.                                         |          | Liquidity          |
 | Depositing Unused Liquidity into Lending     | A hook that automatically deposits liquidity that is not currently in use (out-of-range) into lending protocols.|         | Yield Optimization |
 | KYC (Know Your Customer) Hook                | A hook that integrates KYC procedures for liquidity providers or swappers.                                   |           | Compliance         |
-| Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               |         | Access Control     |
+| Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               |  [Repo](https://github.com/atj3097/whitelist-hook)       | Access Control     |
 | Loyalty Reward System Hook                   | A hook that rewards liquidity providers with loyalty points or tokens based on participation duration or volume.|         | Incentives         |
 
 ## Example Implementations of Hooks
