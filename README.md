@@ -1,9 +1,12 @@
 # Uniswap v4 Hooks Guide
 
 ## Introduction to Uniswap v4 Hooks
-Uniswap v4 hooks are customizable smart contracts that can be plugged into the Uniswap Protocol. They allow developers to modify or extend the behavior of liquidity pools, swaps, fees, and LP positions. Hooks provide a powerful way to innovate on top of the Uniswap Protocol’s liquidity and security, enabling unique trading strategies, optimized yields, and enhanced compliance controls.
+Uniswap v4 hooks are customizable smart contracts that can be plugged into the Uniswap Protocol. They allow developers to modify or extend the behavior of liquidity pools, swaps, fees, and LP positions. Hooks provide a powerful way to innovate on top of the Uniswap Protocol’s liquidity and security, enabling unique trading strategies, optimized yields, and enhanced compliance controls. 
+- Uniswap v4 Whitepaper
+- v4 announcement
+- Hayden Adams discussing v4 on Bankless
 
-## Templates from Other Developers
+## Templates to start building hooks yourself
 
 | Name                   | Description                                                | Link to Github Repo | Category         |
 |------------------------|------------------------------------------------------------|---------------------|------------------|
@@ -31,15 +34,12 @@ Uniswap v4 hooks are customizable smart contracts that can be plugged into the U
 | Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               | [Link](#)           | Access Control     |
 | Loyalty Reward System Hook                   | A hook that rewards liquidity providers with loyalty points or tokens based on participation duration or volume.| [Link](#)           | Incentives         |
 
-## What to Build with Uniswap V4 Hooks (For Absolute Beginners)?
-Uniswap v4 hooks provide an exciting avenue for both seasoned developers and absolute beginners to contribute to the DeFi ecosystem. Here are some beginner-friendly resources and ideas:
+## Want to Build with Uniswap V4 Hooks (For Absolute Beginners to DeFi)?
+Uniswap v4 hooks provide an exciting avenue for both seasoned developers and absolute beginners to contribute to the DeFi ecosystem. Here are some beginner-friendly resources:
 
 - **Tutorial:** Start with the official Uniswap v4 hooks tutorial to learn the basics.
 - **Simple Hooks:** Experiment with creating simple hooks like a fixed fee pool or a restricted access pool.
 - **Collaborate:** Join the Uniswap community to find collaborative projects or seek guidance from experienced developers.
 
 Feel free to experiment, learn, and build innovative solutions with Uniswap v4 hooks!
-
-## Other Sections
-Add additional content, sections, or information as needed to complete your portfolio or project documentation.
 
