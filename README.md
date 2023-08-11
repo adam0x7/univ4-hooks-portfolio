@@ -1,4 +1,4 @@
-# Uniswap v4 Hooks Portfolio
+# Uniswap v4 Hooks Guide
 
 ## Introduction to Uniswap v4 Hooks
 Uniswap v4 hooks are customizable smart contracts that can be plugged into the Uniswap Protocol. They allow developers to modify or extend the behavior of liquidity pools, swaps, fees, and LP positions. Hooks provide a powerful way to innovate on top of the Uniswap Protocol’s liquidity and security, enabling unique trading strategies, optimized yields, and enhanced compliance controls.
