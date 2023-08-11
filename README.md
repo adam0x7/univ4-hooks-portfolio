@@ -13,6 +13,7 @@ Uniswap v4 hooks are customizable smart contracts that can be plugged into the U
 | Example Developer Hook | An example of a developer's unique hook for liquidity pools.| [Link](#)           | Example Category |
 
 ## My V4 Hook Ideas
+Feel free to steal these ideas for yourself!
 
 | Name                                         | Description                                                                                                  | Link to Github Repo | Category           |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
