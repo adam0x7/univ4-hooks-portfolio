@@ -20,6 +20,17 @@ Uniswap v4 hooks are customizable smart contracts that can be plugged into the U
 | Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               | [Link](#)           | Access Control     |
 | Loyalty Reward System Hook                   | A hook that rewards liquidity providers with loyalty points or tokens based on participation duration or volume.| [Link](#)           | Incentives         |
 
+## Interesting Hooks From Other Devs That I Took Inspiration From
+
+| Name                                         | Description                                                                                                  | Username | Category           |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| Multi-Sig Hook                               | A hook that requires multiple signatures for certain pool actions.                                           | [Link](#)           | Security           |
+| Impermanent Loss Mitigation Hook             | A hook to mitigate impermanent loss by using a rebalancing strategy.                                         | [Link](#)           | Liquidity          |
+| Depositing Unused Liquidity into Lending     | A hook that automatically deposits liquidity that is not currently in use (out-of-range) into lending protocols.| [Link](#)           | Yield Optimization |
+| KYC (Know Your Customer) Hook                | A hook that integrates KYC procedures for liquidity providers or swappers.                                   | [Link](#)           | Compliance         |
+| Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               | [Link](#)           | Access Control     |
+| Loyalty Reward System Hook                   | A hook that rewards liquidity providers with loyalty points or tokens based on participation duration or volume.| [Link](#)           | Incentives         |
+
 ## What to Build with Uniswap V4 Hooks (For Absolute Beginners)?
 Uniswap v4 hooks provide an exciting avenue for both seasoned developers and absolute beginners to contribute to the DeFi ecosystem. Here are some beginner-friendly resources and ideas:
 
