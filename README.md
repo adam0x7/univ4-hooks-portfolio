@@ -17,7 +17,7 @@ Feel free to steal these ideas for yourself!
 
 | Name                                         | Description                                                                                                  | Link to Github Repo | Category           |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
-| Multi-Sig Hook                               | A hook that requires multiple signatures for certain pool actions.                                           | [Link](#)           | Security           |
+| Multi-Sig Hook                               | A hook that requires multiple signatures for certain pool actions.                                           | [Link](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main)           | Security           |
 | Impermanent Loss Mitigation Hook             | A hook to mitigate impermanent loss by using a rebalancing strategy.                                         | [Link](#)           | Liquidity          |
 | Depositing Unused Liquidity into Lending     | A hook that automatically deposits liquidity that is not currently in use (out-of-range) into lending protocols.| [Link](#)           | Yield Optimization |
 | KYC (Know Your Customer) Hook                | A hook that integrates KYC procedures for liquidity providers or swappers.                                   | [Link](#)           | Compliance         |
