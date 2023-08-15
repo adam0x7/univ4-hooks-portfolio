@@ -32,6 +32,7 @@ Uniswap v4 hooks provide an exciting avenue for both seasoned developers and abs
 - [Study the Uniswap V4 Periphary & Core Contracts](https://github.com/Uniswap/v4-core)
 - [Tutorial / How to ​integrate Uniswap v4 and create custom hooks](https://soliditydeveloper.com/uniswap4)
 - [Template to start building your own v4 hooks](https://github.com/saucepoint/v4-template)
+- [Uniswap V4 Hooks Tutorial](https://learnweb3.io/lessons/uniswap-v4-hooks-create-a-fully-on-chain-take-profit-orders-hook-on-uniswap-v4/)
 
 #### Last but not least, join the discussion with the rest of the dev community @ [https://hooks.uniswapfoundation.org/](https://hooks.uniswapfoundation.org/)
 
