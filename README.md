@@ -26,7 +26,7 @@ Feel free to implement these ideas for yourself!
 
 
 ## Want to Build with Uniswap V4 Hooks?
-Uniswap v4 hooks provide an exciting avenue for both seasoned developers and absolute beginners to contribute to the DeFi ecosystem. Here are some beginne to advanced friendly resources:
+Uniswap v4 hooks provide an exciting avenue for both seasoned developers and absolute beginners to contribute to the DeFi ecosystem. Here are some beginner to advanced friendly resources:
 
 - If you're totally new to solidity, web3 development in general -> [Alchemy University](https://university.alchemy.com/) is your best friend.
 - [Study the Uniswap V4 Periphary & Core Contracts](https://github.com/Uniswap/v4-core)
