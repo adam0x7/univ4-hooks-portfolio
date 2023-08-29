@@ -12,11 +12,8 @@ Feel free to implement these ideas for yourself!
 | Name                                         | Description                                                                                                  | Link to Github Repo | Category           |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
 | Multi-Sig Hook                               | A hook that requires multiple signatures for certain pool actions.                                           | [Repo](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main)           | Security           |
-| Impermanent Loss Mitigation Hook             | A hook to mitigate impermanent loss by using a rebalancing strategy.                                         |          | Liquidity          |
-| Depositing Unused Liquidity into Lending     | A hook that automatically deposits liquidity that is not currently in use (out-of-range) into lending protocols.|         | Yield Optimization |
-| KYC (Know Your Customer) Hook                | A hook that integrates KYC procedures for liquidity providers or swappers.                                   |           | Compliance         |
 | Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               |  [Repo](https://github.com/atj3097/whitelist-hook)       | Access Control     |
-| Loyalty Reward System Hook                   | A hook that rewards liquidity providers with loyalty points or tokens based on participation duration or volume.|         | Incentives         |
+| Privacy-Enabling Hook                              | A hook concept for Uniswap v4 that combines the privacy features of Tornado Cash for adding anonymitiy to Liquidity Pools                             |  [Repo](https://github.com/atj3097/whitelist-hook)       | Privacy     |
 
 ## Example Implementations of Hooks
 - [Trading Hours Hook](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol)
