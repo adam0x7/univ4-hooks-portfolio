@@ -13,7 +13,7 @@ These are all conceptual and not tested.
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
 | Multi-Sig Hook                               | A hook that requires multiple signatures for certain pool actions.                                           | [Repo](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main)           | Security           |
 | Whitelist Hook                               | A hook that restricts pool participation to a whitelist of approved addresses.                               |  [Repo](https://github.com/atj3097/whitelist-hook)       | Access Control     |
-| Privacy-Enabling Hook                              | A hook concept for Uniswap v4 that combines the privacy features of Tornado Cash for adding anonymitiy to Liquidity Pools                             |  [Repo](https://github.com/atj3097/whitelist-hook)       | Privacy     |
+| Privacy-Enabling Hook                              | A hook concept for Uniswap v4 that combines the privacy features of Tornado Cash for adding anonymitiy to Liquidity Pools                             |  [Repo](https://github.com/atj3097/privacy-hook-univ4)      | Privacy     |
 
 ## Example Implementations of Hooks
 - [Trading Hours Hook](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol)
